@@ -1,4 +1,4 @@
-# Web-Based Assignment Plagiarism & AI Content Detection Tool
+# Web-Based Assignment AI Content Detection Tool
 
 Simple academic project demonstrating local plagiarism and AI-like content detection without external APIs.
 
@@ -46,5 +46,6 @@ Notes:
 Ideas for extension:
 - Use multiple reference files or simple n-gram overlap for stronger plagiarism checks.
 - Add a settings panel to tune weights used in AI-likelihood computation.
+
 
 Enjoy and modify for learning!
